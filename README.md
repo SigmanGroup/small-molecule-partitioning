@@ -1,5 +1,5 @@
 # small-molecule-partitioning
-Code for [add biorxiv DOI here]
+Code for https://doi.org/10.1101/2022.12.19.521099
 
 Updated December 2022, Hanna D. Clements
 
@@ -16,7 +16,7 @@ All files should be located a single directory. If necessary, use the environmen
 ## citation
 This code is released under the MIT license. Commercial use, Modification, Distribution and Private use are all permitted. The use of this workflow can be acknowledged with the following citation:
 
-[add biorxiv DOI here]
+Thody, S. A.; Clements, H. D.; Baniasadi, H.; Lyon, A. S.; Sigman, M. S.; Rosen, M. K. Small Molecule Properties Define Partitioning into Biomolecular Condensates. bioRxiv 2022, 2022.12.19.521099. https://doi.org/10.1101/2022.12.19.521099.
 
 ## contributors
 - modeling.ipynb: Adapted from code by Iris Guo and Tobias Gensch with contributions from Ellyn Peters
